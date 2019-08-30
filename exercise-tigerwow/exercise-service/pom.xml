@@ -11,4 +11,10 @@
     <artifactId>exercise-service</artifactId>
     <packaging>jar</packaging>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.tigerwow.exercise</groupId>
+            <artifactId>exercise-model</artifactId>
+        </dependency>
+    </dependencies>
 </project>
