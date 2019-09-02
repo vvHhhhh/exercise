@@ -93,7 +93,7 @@
                     </resource>
                     <!-- local环境配置 -->
                     <resource>
-                        <directory>src/main/resource.${enviroment}</directory>
+                        <directory>src/main/resources.${enviroment}</directory>
                         <includes>
                             <include>**/*</include>
                         </includes>
@@ -119,9 +119,9 @@
                     <resource>
                         <directory>src/main/resources</directory>
                     </resource>
-                    <!-- local环境配置 -->
+                    <!-- dev环境配置 -->
                     <resource>
-                        <directory>src/main/resource.${enviroment}</directory>
+                        <directory>src/main/resources.${enviroment}</directory>
                         <includes>
                             <include>**/*</include>
                         </includes>
