@@ -1,4 +1,4 @@
-package com.tigerwow;
+package com.tigerwow.tea;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

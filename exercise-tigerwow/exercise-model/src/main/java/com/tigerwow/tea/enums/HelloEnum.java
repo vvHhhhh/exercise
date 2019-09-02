@@ -1,6 +1,5 @@
-package com.tigerwow.enums;
+package com.tigerwow.tea.enums;
 
-import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 
